@@ -1,4 +1,4 @@
-# 🌐 Hybrid Cloud — The Complete, No-Boring Guide
+# 🌐 Hybrid Cloud — The Complete
 
 ![](https://img.shields.io/badge/Topic-Hybrid%20Cloud-8b5cf6?style=flat-square)
 ![](https://img.shields.io/badge/Level-Beginner%20%E2%86%92%20Pro-22c55e?style=flat-square)
